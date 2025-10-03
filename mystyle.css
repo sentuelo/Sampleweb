@@ -1,0 +1,118 @@
+body {
+    background-color: beige;
+
+}
+.head{
+    text-align: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+    border-radius:500px;
+    border: solid black 3px;
+}
+
+.picture img{
+    width: 150px;
+    height: 150px;
+    border: none;
+    border-radius: 20px;
+}  
+h2 {
+    text-align: center;
+    padding:10px;
+}
+.user{
+    display:flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.name p{
+    font-size: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.name h2{
+    background: none;
+}
+.container{
+    padding-bottom: 20px;
+    justify-items: center;
+    justify-content: center;
+}
+.skills h2{
+    font-size: 15px;
+    background: white;
+    text-align: center;
+}
+
+.skills ul{
+    font-size: 15px;
+    background: white;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+}
+.hobbies ul{
+    font-size: 15px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    height: 100px;
+}
+.hobbies h2{
+    font-size: 15px;
+    background: white;
+    text-align: center;
+}
+.memo{
+    text-align: center;
+}
+.im img{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border: none;
+}
+.memos{
+    display:flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.poc img{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border: none;
+}
+h2{
+    font-size: 15px;
+    border-radius: 50px;
+    background: white;
+    padding-bottom: 20px;
+}
+.info img{
+    width: 30px;
+    height: 30px;
+    border: none;
+    padding: 10px;
+}
+.contactinfo{
+    text-align: center;
+}
+
+.info a{
+    font-size: 10px;
+    text-decoration: none;
+    padding: 10px;
+}
+.info {
+    display: flex;
+    justify-content: center;
+    background: white;
+    border-radius: 20px;
+}
